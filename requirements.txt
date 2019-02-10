@@ -2,7 +2,7 @@ absl-py==0.2.0
 aiohttp==3.5.0
 alabaster==0.7.10
 alembic==0.9.9
-anaconda-client==1.6.9
+anaconda-client==1.2.2
 anaconda-navigator==1.7.0
 anaconda-project==0.8.2
 arch==4.6.0
